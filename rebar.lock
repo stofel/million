@@ -1,0 +1,23 @@
+{"1.2.0",
+[{<<"ecldb">>,
+  {git,"https://github.com/stofel/ecldb.git",
+       {ref,"2d707b3dad0212c417594c2f93cf1beefc5ee342"}},
+  0},
+ {<<"fs">>,{pkg,<<"fs">>,<<"6.1.1">>},1},
+ {<<"observer_cli">>,
+  {git,"https://github.com/zhongwencool/observer_cli.git",
+       {ref,"373cd66cf5b05240f807a70edf4fd0528cdf5ff9"}},
+  0},
+ {<<"recon">>,{pkg,<<"recon">>,<<"2.5.1">>},1},
+ {<<"sync">>,
+  {git,"https://github.com/rustyio/sync.git",
+       {ref,"75d63841053d2be10ff08624ec01ebadaad990f7"}},
+  0}]}.
+[
+{pkg_hash,[
+ {<<"fs">>, <<"9D147B944D60CFA48A349F12D06C8EE71128F610C90870BDF9A6773206452ED0">>},
+ {<<"recon">>, <<"430FFA60685AC1EFDFB1FE4C97B8767C92D0D92E6E7C3E8621559BA77598678A">>}]},
+{pkg_hash_ext,[
+ {<<"fs">>, <<"EF94E95FFE79916860649FED80AC62B04C322B0BB70F5128144C026B4D171F8B">>},
+ {<<"recon">>, <<"5721C6B6D50122D8F68CCCAC712CAA1231F97894BAB779EFF5FF0F886CB44648">>}]}
+].

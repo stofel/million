@@ -1,0 +1,8 @@
+-name million@localhost
+
+-setcookie million_cookie
+
++K true
++A30
++P 2000000
+
